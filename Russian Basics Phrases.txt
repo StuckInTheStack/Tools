@@ -1,0 +1,65 @@
+﻿Directions:
+Left		оставил
+Right		право
+Straight	прямо	
+Backwards	назад
+
+
+Same		так же
+Thing, object	вещь
+Thing,situation	дело
+
+Prepositions:
+In		в
+On		на ,	включи  (light on) say as F
+Off		от ,    выключи (light off)
+Inside of	Внутри
+Outside of	вне
+Over		над
+Under		под
+Behind		позади
+In Front Of	перед
+With 		с
+Without		без
+
+Colors:
+Red	красный
+Orange	оранжевый
+Yellow	желтый
+Green	зелёный
+Blue	синий
+Purple	пурпурный
+White	белый
+Black	черный
+
+Questions:
+Where is the ?		где
+What is the meaning of?	Каково значение
+
+Commands:	
+I want ____	я хочу
+I need ____	я нуждаюсь
+You need to ___	вам нужно	
+Stop		стоп
+Go on		продолжать
+Shut up		Заткнись
+Say something	скажите что-то
+Come here	идите сюда
+Go away		уходи
+Sit down	сядь	
+Stand up	вставать
+Eat		есть
+Drink		пить
+
+Statements:
+I am going to ____	я собираюсь
+I like _____		мне нравится
+I don't like _____	мне не нравится
+
+
+Phrases:
+, But		но
+, And		и
+, Because	Потому что
+, However	тем не мение	
+, 
